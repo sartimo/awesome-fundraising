@@ -9,6 +9,7 @@
 - **GitCoin Grants**: https://bounties.gitcoin.co/grants
 - **IOSG Ventures**: https://iosg.vc/
 - **Open Grants**: https://opengrants.com/explore
+- **MolochDAO**: https://molochdao.com/docs/grant-pipeline-procedures/proposal-process/application/
 
 ## Polkadot Stack (Polkadto, Substrate and Kusama)
 - **Web3 Foundation Funding**: https://github.com/w3f/Grants-Program
