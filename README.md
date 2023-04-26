@@ -12,3 +12,6 @@
 
 ## Polkadot Stack (Polkadto, Substrate and Kusama)
 - **Web3 Foundation Funding**: https://github.com/w3f/Grants-Program
+
+## General
+- **Web3Grants Accelerator**: https://web3grants.net/
